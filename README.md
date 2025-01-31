@@ -1,1 +1,1 @@
-# Automate-Dustbin-
+# Automate-Dustbin project
